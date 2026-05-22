@@ -1,5 +1,4 @@
 # 🧰 Visual Keyboard Event Demo (Java Swing)
-## rise internship project 
 
 This Java Swing application visually demonstrates keyboard events. When a key is pressed or released on the physical keyboard, the corresponding key on a virtual on-screen keyboard is highlighted, and the event is logged in a text area.
 
