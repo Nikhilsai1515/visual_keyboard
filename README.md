@@ -12,7 +12,8 @@ This Java Swing application visually demonstrates keyboard events. When a key is
 
 ## 📷 Screenshot
 
-> **Note**: Add a screenshot here once you run the application and take a picture of the interface.
+> <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/def9e702-4590-4c23-b5e6-bee6a6cb213b" />
+
 
 ## 🛠️ Requirements
 
